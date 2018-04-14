@@ -1,8 +1,8 @@
 ---
 layout: frontpage
-title: Karl Broman
-description: Karl Broman is Professor in Biostatistics and Medical Informatics at University of Wisconsin - Madison; research in statistical genetics
-keywords: Broman, QTL, R/qtl, quantitative trait loci, statistics, statistical genetics, recombination
+title: Jieqiang Wei
+description: I am a postdoc researcher at the Department of Automatic Control, EECS, KTH Royal Institute of Technology
+keywords: Wei, control
 ---
 
 <div class="navbar">
