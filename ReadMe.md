@@ -1,6 +1,4 @@
-## Karl Broman&rsquo;s website
-
-See [kbroman.org](http://kbroman.org).
+## Jieqiang&rsquo;s website
 
 ---
 
