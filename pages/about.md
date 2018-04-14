@@ -1,18 +1,16 @@
 ---
 layout: page
 title: about
-description: Karl Broman is Professor in Biostatistics and Medical Informatics at University of Wisconsin - Madison; research in statistical genetics
+description: Jieqiang Wei is a Postdoc Researcher at the Department of Automatic Control, EECS, KTH Royal Institute of Technology，Sweden.
 ---
 
-Karl Broman is Professor in the
-[Department of Biostatistics &amp; Medical Informatics](http://www.biostat.wisc.edu)
-at the University of Wisconsin&ndash;Madison;
-research in statistical genetics; developer of
-[R/qtl](http://www.rqtl.org) (for [R](http://www.r-project.org)).
+Jieqiang,
+[Department of Automatic Control](https://www.kth.se/ac/department-of-automatic-control-1.788078)
+at KTH Royal Institute of Technology.
 
-Karl received a BS in [mathematics](http://www4.uwm.edu/letsci/math/)
-in 1991, from the
-University of Wisconsin&ndash;Milwaukee, and a
+Jieqiang received a BS in [mathematics](http://math.qfnu.edu.cn/)
+in 2008, from Qufu Normal
+University, China, and a
 PhD in [statistics](http://www.stat.berkeley.edu) in 1997, from the
 University of California, Berkeley; his PhD advisor was
 [Terry Speed](http://www.wehi.edu.au/faculty_members/professor_terry_speed).
