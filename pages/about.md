@@ -37,9 +37,9 @@ of interactive data visualizations for high-dimensional genetic data;
 see his [R/qtlcharts package](http://kbroman.org/qtlcharts) and
 his [D3 examples](http://www.biostat.wisc.edu/~kbroman/D3).
 
-[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/broman_cv.pdf)<br/>
+[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/wei_cv.pdf)<br/>
 [orcid](http://orcid.org): [0000-0002-4914-6671](http://orcid.org/0000-0002-4914-6671)<br/>
-[google scholar](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=42tCp5UAAAAJ&view_op=list_works)<br/>
+[google scholar](https://scholar.google.com/citations?user=5ClEDSoAAAAJ&hl=zh-CN)<br/>
 [impactstory](https://impactstory.org/u/0000-0002-4914-6671)
 
 ---
