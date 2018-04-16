@@ -11,21 +11,12 @@ at KTH Royal Institute of Technology.
 Jieqiang received a BS in [mathematics](http://math.qfnu.edu.cn/)
 in 2008, from Qufu Normal
 University, China, and a
-PhD in [statistics](http://www.stat.berkeley.edu) in 1997, from the
-University of California, Berkeley; his PhD advisor was
-[Terry Speed](http://www.wehi.edu.au/faculty_members/professor_terry_speed).
-He was a postdoctoral fellow with [James Weber](https://www.preventiongenetics.com/about-us/senior-staff/) at the
-[Marshfield Clinic Research Foundation](http://research.marshfieldclinic.org),
-1997&ndash;1999. He
-was a faculty member in the [Department of Biostatistics](http://www.jhsph.edu/departments/biostatistics/) at Johns
-Hopkins University, 1999&ndash;2007. In 2007, he moved to the
-[University of Wisconsin&ndash;Madison](http://www.wisc.edu),
-where he is now Professor.
+Master in [mathematics](http://math.english.bnu.edu.cn/) in 2011, from The Department of Mathematics of Beijing Normal University; his PhD advisor was
+[Arjan van der Schaft](http://www.math.rug.nl/arjan/).
+He is a postdoctoral fellow with [Karl Henrik Johansson](https://people.kth.se/~kallej/) and [Henrik Sandberg](https://people.kth.se/~hsan/) at the
+[KTH ROYAL INSTITUTE OF TECHNOLOGY](https://www.kth.se/en).
 
-Karl is a Senior Editor for [_Genetics_](http://www.genetics.org),
-Academic Editor for [_PeerJ_](http://peerj.com), and
-a member of the [_BMC Biology_](http://bmcbiol.biomedcentral.com)
-[Editorial Board](http://bmcbiol.biomedcentral.com/about/editorial-board).
+
 
 Karl is an applied statistician focusing on problems in genetics and
 genomics &ndash; particularly the analysis of meiotic recombination and the
@@ -38,9 +29,8 @@ see his [R/qtlcharts package](http://kbroman.org/qtlcharts) and
 his [D3 examples](http://www.biostat.wisc.edu/~kbroman/D3).
 
 [curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/wei_cv.pdf)<br/>
-[orcid](http://orcid.org): [0000-0002-4914-6671](http://orcid.org/0000-0002-4914-6671)<br/>
 [google scholar](https://scholar.google.com/citations?user=5ClEDSoAAAAJ&hl=zh-CN)<br/>
-[impactstory](https://impactstory.org/u/0000-0002-4914-6671)
+
 
 ---
 
