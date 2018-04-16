@@ -56,9 +56,9 @@ his [D3 examples](http://www.biostat.wisc.edu/~kbroman/D3).
         </div>
 
         <div class="span2">
-        <a href="../assets/pics/karl_2014-03-30.jpg">
-            <img src="../assets/pics/karl_2014-03-30_small.jpg"
-                  title="Karl Broman" alt="Karl Broman"/></a>
+        <a href="../assets/pics/me.jpg">
+            <img src="../assets/pics/me.jpg"
+                  title="Jieqiang Wei" alt="Jieqiang Wei"/></a>
         </div>
     </div>
 </div>
