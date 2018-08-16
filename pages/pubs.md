@@ -22,10 +22,11 @@ description: Jieqiang Wei's publications
 
 ### <a name="articles"></a>journal articles
 
-#### 2013
-
 **Jieqiang Wei** and Arjan van der Schaft, "Load balancing of dynamical distribution networks with flow constraints and unknown in/outflows". 
-[Systems & Control Letters](https://www.journals.elsevier.com/systems-and-control-letters) volume 62, issue 11,  pp.1001–1008.
+[Systems & Control Letters](https://www.journals.elsevier.com/systems-and-control-letters), volume 62, issue 11,  pp.1001–1008, 2013.
+
+Ning Ding, **Jieqiang Wei** and M. Wolfensberger, "Using Epistemic Synchronization Index (ESI) to measure students' knowledge elaboration process in CSCL". 
+[Computers & Education](https://www.journals.elsevier.com/computers-and-education), volume 80, pp.122-131, 2015.
 
 Keele GR, Prokop JW, He H, Holl K, Littrell J, Deal A, Francic S, Cui
 L, Gatti DM, **Broman KW**, Tschannen M, Tsaih S-W, Zagloul M, Kim Y,
