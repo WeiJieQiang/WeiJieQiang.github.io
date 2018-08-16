@@ -982,30 +982,6 @@ Notes-Monograph Series, Vol 33, pp 114-142
 [![Amazon](icons16/amazon-icon.png)](https://www.amazon.com/gp/product/0940600471?ie=UTF8&tag=7210-20)
 <!-- * 1 * -->
 
-### <a name="techreports"></a>technical reports
-
-**Broman KW** (2010) Genetic map construction with R/qtl.  Technical report #214, Department of Biostatistics & Medical Informatics, University of Wisconsin-Madison
-[![Abstract](icons16/pubmed-icon.png)](tech214_abstract.html)
-[![pdf (1.5M)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/tr_214.pdf)
-
-<a name="hmm"></a>**Broman KW** (2006) Use of hidden Markov models
-for QTL mapping.  Working paper 125, Department of Biostatistics,
-Johns Hopkins University, Baltimore, MD
-[![Abstract](icons16/pubmed-icon.png)](http://www.bepress.com/jhubiostat/paper125)
-[![pdf (94k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/hmm.pdf)
-
-<a name="ms0220"></a>Blades NJ, **Broman KW** (2002)
-Estimating the number of essential genes in a genome by random
-transposon mutagenesis.  Technical Report MS02-20, [Department of Biostatistics](http://www.biostat.jhsph.edu),
-Johns Hopkins University, Baltimore, MD
-[![Abstract](icons16/pubmed-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/ms0220_abstract.html)
-[![pdf (360k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/ms0220.pdf)
-
-Bowman KO, Shenton LR, Kastenbaum MA, **Broman K** (1992)
-Overdispersion: Notes on discrete distributions.  Technical Report
-ORNL/TM-12167, Oak Ridge National Laboratory
-[![Abstract](icons16/pubmed-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/ornl_abstract.html)
-[![pdf (388k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/ornl_techreport.pdf)
 
 ### <a name="thesis"></a>dissertation
 
