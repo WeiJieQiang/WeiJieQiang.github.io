@@ -1,13 +1,12 @@
 ---
 layout: page
 title: publications
-description: Karl Broman's publications
+description: Jieqiang Wei's publications
 ---
 
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
-            <li><a href="#book">book</a></li>
             <li><a href="#articles">articles</a></li>
             <li><a href="#editorials">editorials</a></li>
             <li><a href="#letters">letters</a></li>
@@ -23,16 +22,9 @@ description: Karl Broman's publications
 
 ### <a name="articles"></a>journal articles
 
-#### To appear
+#### 2013
 
-**Broman KW**, Woo KH. Data organization in spreadsheets.
-[The American Statistician](http://www.tandfonline.com/toc/utas20/current), to appear
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/dataorg.pdf)
-[![GitHub](icons16/github-icon.png)](https://github.com/kbroman/Paper_DataOrg)
-<!-- * 150 * -->
-<!-- https://doi.org/10.1080/00031305.2017.1375989 -->
-
-#### 2018
+**Jieqiang Wei** and Arjan van der Schaft, Load balancing of dynamical distribution networks with flow constraints and unknown in/outflows. \emph{Systems \& Control Letters}, volume 62, issue 11,  pp.1001–1008.\\
 
 Keele GR, Prokop JW, He H, Holl K, Littrell J, Deal A, Francic S, Cui
 L, Gatti DM, **Broman KW**, Tschannen M, Tsaih S-W, Zagloul M, Kim Y,
