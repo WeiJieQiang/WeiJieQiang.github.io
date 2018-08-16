@@ -24,7 +24,7 @@ description: Jieqiang Wei's publications
 
 #### 2013
 
-**Jieqiang Wei** and Arjan van der Schaft, Load balancing of dynamical distribution networks with flow constraints and unknown in/outflows. 
+**Jieqiang Wei** and Arjan van der Schaft, "Load balancing of dynamical distribution networks with flow constraints and unknown in/outflows". 
 [Systems & Control Letters](https://www.journals.elsevier.com/systems-and-control-letters) volume 62, issue 11,  pp.1001–1008.
 
 Keele GR, Prokop JW, He H, Holl K, Littrell J, Deal A, Francic S, Cui
