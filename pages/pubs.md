@@ -24,7 +24,8 @@ description: Jieqiang Wei's publications
 
 #### 2013
 
-**Jieqiang Wei** and Arjan van der Schaft, Load balancing of dynamical distribution networks with flow constraints and unknown in/outflows. \emph{Systems \& Control Letters}, volume 62, issue 11,  pp.1001–1008.\\
+**Jieqiang Wei** and Arjan van der Schaft, Load balancing of dynamical distribution networks with flow constraints and unknown in/outflows. 
+[Systems & Control Letters](https://www.journals.elsevier.com/systems-and-control-letters) volume 62, issue 11,  pp.1001–1008.
 
 Keele GR, Prokop JW, He H, Holl K, Littrell J, Deal A, Francic S, Cui
 L, Gatti DM, **Broman KW**, Tschannen M, Tsaih S-W, Zagloul M, Kim Y,
@@ -93,12 +94,6 @@ peripheral nervous systems. [PLOS ONE](http://www.plosone.org) 11:e0160447
 <!-- * 144 * -->
 <!-- https://doi.org/10.1371/journal.pone.0160447 -->
 
-Sloan Z, Arends D, **Broman KW**, Centeno A, Furlotte N, Nijveen H,
-Yan L, Zhou X, Williams RW, Prins P (2016) GeneNetwork: framework for
-web-based genetics. [J Open Source Software](https://www.theoj.org) 1(2): 25
-[![pdf](icons16/pdf-icon.png)](https://www.theoj.org/joss-papers/joss.00025/10.21105.joss.00025.pdf)
-<!-- * 143 * -->
-<!-- https://doi.org/10.21105/joss.00025 -->
 
 De Simone M, Spagnuolo L, Lor&egrave; NI, Cigana C, De Fino I, **Broman KW**,
 Iraqi FA, Bragonzi A (2016) Mapping genetic determinants of host
