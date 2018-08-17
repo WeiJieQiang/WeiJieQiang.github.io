@@ -1,7 +1,7 @@
 ---
 layout: page
-title: software
-description: Karl Broman's software
+title: hobbies
+description: Jieqiang Wei's HOBBIES
 ---
 
 <div class="navbar">
