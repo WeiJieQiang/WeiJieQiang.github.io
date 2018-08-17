@@ -56,8 +56,8 @@ his [D3 examples](http://www.biostat.wisc.edu/~kbroman/D3).
         </div>
 
         <div class="span2">
-        <a href="../assets/pics/me.jpg">
-            <img src="../assets/pics/me.jpg"
+        <a href="../assets/pics/me.JPG">
+            <img src="../assets/pics/me.JPG"
                   title="Jieqiang Wei" alt="Jieqiang Wei"/></a>
         </div>
     </div>
