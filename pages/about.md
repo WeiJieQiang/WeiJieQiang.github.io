@@ -33,13 +33,12 @@ his [D3 examples](http://www.biostat.wisc.edu/~kbroman/D3).
 
     <div class="row-fluid">
         <div class="span5">
-            Karl Broman<br/>
-            <a href="http://www.biostat.wisc.edu">Department of Biostatistics &amp; Medical Informatics</a><br/>
-            <a href="http://www.wisc.edu">University of Wisconsin&ndash;Madison</a><br/>
-            <a href="http://map.wisc.edu/s/2tie3nen">2126 Genetics/Biotechnology Center</a><br/>
-            425 Henry Mall<br/>
-            Madison, Wisconsin 53706<br/>
-            USA<br/><br/>
+            Jieqiang Wei<br/>
+            <a href="https://www.kth.se/ac/department-of-automatic-control-1.788078">Department of Automatic Control</a><br/>
+            <a href="http://www.wisc.edu">KTH Royal Institute of Technology</a><br/>
+            SE-100 44<br/>
+            Stockholm<br/>
+            Sweden<br/><br/>
 
             <div id="hide_email">
             Email: <code>kbro</code><b>I</b><code>man</code><b>don't</b><code>@</code><b>want</b><code>bio</code><b>spam!
