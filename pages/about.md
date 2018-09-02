@@ -43,7 +43,6 @@ his [D3 examples](http://www.biostat.wisc.edu/~kbroman/D3).
             <div id="hide_email">
             Email: <code>jie</code><b>I</b><code>qiang</code><b>don't</b><code>@</code><b>want</b><code>k</code><b>spam!
             </b><code>th</code><b>So</b><code>.</code><b>alone</b><code>s</code><b>!</b><code>e</code><br/>
-            Phone: 608-262-4633
             </div>
         </div>
 
