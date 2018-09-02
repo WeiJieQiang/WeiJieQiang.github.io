@@ -41,9 +41,8 @@ his [D3 examples](http://www.biostat.wisc.edu/~kbroman/D3).
             Sweden<br/><br/>
 
             <div id="hide_email">
-            Email: <code>kbro</code><b>I</b><code>man</code><b>don't</b><code>@</code><b>want</b><code>bio</code><b>spam!
-            </b><code>stat</code><b>So</b><code>.</code><b>please</b><code>wi</code><b>leave
-            </b><code>sc</code><b>me</b><code>.</code><b>alone</b><code>e</code><b>!</b><code>du</code><br/>
+            Email: <code>jie</code><b>I</b><code>qiang</code><b>don't</b><code>@</code><b>want</b><code>k</code><b>spam!
+            </b><code>th</code><b>So</b><code>.</code><b>alone</b><code>s</code><b>!</b><code>e</code><br/>
             Phone: 608-262-4633
             </div>
         </div>
