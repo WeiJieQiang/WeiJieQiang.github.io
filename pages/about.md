@@ -9,21 +9,15 @@ Jieqiang,
 at KTH Royal Institute of Technology.
 
 Jieqiang received a BS in [mathematics](http://math.qfnu.edu.cn/)
-in 2008, from Qufu Normal
-University, China, and a
-Master in [mathematics](http://math.english.bnu.edu.cn/) in 2011, from The Department of Mathematics of Beijing Normal University; his PhD advisor was
+in 2008, from Qufu Normal University, China, and a Master in [mathematics](http://math.english.bnu.edu.cn/) in 2011, from The Department of Mathematics of Beijing Normal University; He obtained his PhD degree from Johann Bernoulli Institute for Mathematics and Computer Science, [University of Groningen](https://www.rug.nl/) in 2016.3. under supervision of Prof.
 [Arjan van der Schaft](http://www.math.rug.nl/arjan/).
 He is a postdoctoral fellow with [Karl Henrik Johansson](https://people.kth.se/~kallej/) and [Henrik Sandberg](https://people.kth.se/~hsan/) at the
 [KTH ROYAL INSTITUTE OF TECHNOLOGY](https://www.kth.se/en).
 
 
 
-Karl is an applied statistician focusing on problems in genetics and
-genomics &ndash; particularly the analysis of meiotic recombination and the
-genetic dissection of complex traits in experimental organisms. The
-latter is often called &ldquo;QTL mapping.&rdquo; A QTL is a
-_quantitative trait locus_ &ndash; a genetic locus that influences a
-quantitative trait. Recently he has been focusing on the development
+Jieqiang is an engineer and applied mathematician focusing on problems in automatic control and robotics; particularly the multi-robot systems (unmaned vehicles, autonomous surface vehicles, etc). 
+Theorectically, these topics sit in the domain of geometric and adaptive control. Closely related applications include area exploration, marine technology, transportation, etc. Recently he has been focusing on the development
 of interactive data visualizations for high-dimensional genetic data;
 see his [R/qtlcharts package](http://kbroman.org/qtlcharts) and
 his [D3 examples](http://www.biostat.wisc.edu/~kbroman/D3).
