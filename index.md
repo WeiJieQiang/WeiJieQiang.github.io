@@ -14,6 +14,8 @@ keywords: Wei, control
   </div>
 </div>
 
+NEWS
+
 <table class="wide">
 <tr>
   <td class="left">
