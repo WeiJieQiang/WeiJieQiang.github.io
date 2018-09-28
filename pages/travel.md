@@ -1,8 +1,8 @@
 ---
 layout: page
-title: travel
+title: daily life
 ---
-
+Due to the intelligence limit, we omit the proof in this paper. 
 <!--
   <a href="http://statgen.ncsu.edu/brcwebsite/summer_institute_ral.php">Summer Institute in Statistical Genetics</a> at NC State in Raleigh, NC (June 8-10, 2005)
 
